@@ -1,0 +1,14 @@
+D:\ClassLibrary\ClassLibrary\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+D:\ClassLibrary\ClassLibrary\ClassLibrary\bin\Debug\net6.0\ClassLibrary.runtimeconfig.json
+D:\ClassLibrary\ClassLibrary\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+D:\ClassLibrary\ClassLibrary\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+D:\ClassLibrary\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+D:\ClassLibrary\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClassLibrary\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\ClassLibrary\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+D:\ClassLibrary\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\ClassLibrary\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+D:\ClassLibrary\ClassLibrary\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+D:\ClassLibrary\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+D:\ClassLibrary\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ClassLibrary.genruntimeconfig.cache
+D:\ClassLibrary\ClassLibrary\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
